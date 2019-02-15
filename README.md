@@ -1,6 +1,6 @@
 # datagenerator
 
-`(base) D:\>python datagen.py --help
+```(base) D:\>python datagen.py --help
 usage: datagen.py [-h] [--o O] [--c C] [--r R] [--cs CS [CS ...]] [--d D]  
   
 A Simple Data Generator  
@@ -18,8 +18,8 @@ optional arguments:
   --d D                 Debug Level: INFO, DEBUG, WARNING  
   
 Contact:- joysn1980@yahoo.com  
-` 
-`(base) D:>python datagen.py --r 10 --c 2 --cs 10 7  
+``` 
+```(base) D:>python datagen.py --r 10 --c 2 --cs 10 7  
   
 Contents of Generated File:- gen_data.txt  
 
@@ -33,4 +33,4 @@ X<%!y2l\"1 ,hAm%E&
 wp6=n[peiG s'^v0%M
 3w]#*4:6wC 5Q1UMzF
 lcaP2SHq9d Ql]2s^Y
-`
+```
